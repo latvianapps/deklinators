@@ -2,7 +2,7 @@
   "name": "deklinators",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "files": ["dist", "src"],
   "scripts": {
     "build": "tsc",
@@ -12,6 +12,10 @@
   },
   "author": "Arnis Gross, Pāvils Jurjāns",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/latvianapps/deklinators"
+  },
   "devDependencies": {
     "@types/jest": "^27.0.1",
     "@typescript-eslint/eslint-plugin": "^4.29.2",
