@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "strict": true,
+    "declaration": true,
+    "sourceMap": true,
+    "outDir": "dist",
+    "baseUrl": "src",
+    "paths": {
+      "deklinators": ["."],
+      "deklinators/*": ["./*"],
+    },
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "typedocOptions" : {
+    "entryPoints": ["src/latvian"],
+    "out": "doc",  
+  },
+}
