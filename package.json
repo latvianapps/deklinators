@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/latvianapps/deklinators"
+    "url": "https://github.com/latvianapps/deklinators.git"
   },
   "devDependencies": {
     "@types/jest": "^27.0.1",
