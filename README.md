@@ -4,6 +4,14 @@ Deklinators is a Node.js module that allows declination of nouns, pronouns, prop
 
 Deklinators is written in TypeScript, and the package includes all the necessary type declarations.
 
+The following authoritative Latvian grammar references were used:
+
+- Latviešu valodas gramatika, LU Latviešu valodas institūts, Rīga, 2013
+- Latvian Grammar, University of Latvia Press, Rīga, 2021
+- Latvian, An Essential Grammar, Dace Prauliņš, Routledge, 2012
+- Latviešu valodas gramatika, V. Baltiņa-Bērziņa, Apgāds Zvaigzne, 1994
+- Latviešu gramatika un pareizrakstība, Lidija Ziemele, LAA Skolu nodaļa, 1967
+
 ## Installation
 
 ```
