@@ -11,6 +11,7 @@ The following authoritative Latvian grammar references were used:
 - Latvian, An Essential Grammar, Dace Prauliņš, Routledge, 2012
 - Latviešu valodas gramatika, V. Baltiņa-Bērziņa, Apgāds Zvaigzne, 1994
 - Latviešu gramatika un pareizrakstība, Lidija Ziemele, LAA Skolu nodaļa, 1967
+- A Grammar of Modern Latvian, T.G. Fennell, H. Gelsen, Mouton Publishers, 1980
 
 ## Installation
 
